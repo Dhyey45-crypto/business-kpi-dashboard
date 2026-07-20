@@ -1,4 +1,5 @@
 # 📊 KPI Dashboard — Streamlit + Plotly + TextBlob
+### 🔗 [Launch the Live App](https://business-kpi-dashboard-9urqxcanzfjufpe4cnpz98.streamlit.app/)
 
 An interactive business KPI dashboard with Revenue, Profit, and Customer
 Growth KPIs, monthly trend charts, interactive filters, and customer
